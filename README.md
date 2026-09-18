@@ -1,4 +1,4 @@
-## Hola a todos Soy Carolyne👋 
+## Hola a todos Soy Carolyne, estoy comenzando en DAM espero poder programar pronto y poder hablar de róbotica en clase👋 
 
 <!--
 **Carol-212/Carol-212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
